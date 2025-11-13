@@ -1,0 +1,1 @@
+X=MsgBox("remove virus",4+16,"вирус")
